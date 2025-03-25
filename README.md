@@ -1,11 +1,12 @@
 # Ejada Task Management System
-![Image](https://github.com/user-attachments/assets/2cf7d39a-5e09-49bc-8610-cb29dcd30c0e)
 
-![Image](https://github.com/user-attachments/assets/ee99a6d1-b53c-4a9f-ab2e-8684ad8ed760)
 
 ![Image](https://github.com/user-attachments/assets/74212c10-265d-4985-b4a3-e0809f4219da)
 
 ![Image](https://github.com/user-attachments/assets/c4d87a4b-ef09-45d3-b3bb-55fcc3056209)
+![Image](https://github.com/user-attachments/assets/2cf7d39a-5e09-49bc-8610-cb29dcd30c0e)
+
+![Image](https://github.com/user-attachments/assets/ee99a6d1-b53c-4a9f-ab2e-8684ad8ed760)
 ## 🚀 Project Overview
 
 Ejada Task Management System is a simple and efficient task management application built using modern web technologies. It allows users to add and delete tasks, manage items in the To-Do list, switch between dark and light themes, and integrates seamlessly with a backend for persistent data storage.
