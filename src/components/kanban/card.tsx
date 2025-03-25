@@ -28,7 +28,7 @@ const Card: React.FC<CardProps> = ({
   precentage,
   description,
   priority,
-  priorityID,
+
   completed = false,
 }) => {
   const [isEditModalOpen, setIsEditModalOpen] = useState(false);

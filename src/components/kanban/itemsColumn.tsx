@@ -4,13 +4,7 @@ import { ArrowRight } from "lucide-react";
 import Card from "./card";
 
 // Define the types for the props
-interface Item {
-  id?: number;
-  title?: string;
-  precentage?: number;
-  description?: string;
-  priority?: string;
-}
+
 
 interface ItemsColumnProps {
   columnTitle: string;

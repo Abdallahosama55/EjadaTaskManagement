@@ -1,7 +1,6 @@
-import { ITodoItem } from "./interface";
 
 export const reorder = (
-  list: Array<ITodoItem>,
+  list: Array<any>,
   startIndex: number,
   endIndex: number
 ) => {

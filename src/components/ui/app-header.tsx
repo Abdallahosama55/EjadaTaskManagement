@@ -1,13 +1,10 @@
-// src/components/app-header.tsx
-import { useNavigate } from "react-router-dom";
+
 import { SidebarTrigger } from "@/components/ui/sidebar";
 import { Separator } from "@/components/ui/separator";
-import { Button } from "@/components/ui/button";
-import { Plus } from "lucide-react";
+
 import { ThemeToggle } from "../theme-toggle";
 
 export function AppHeader() {
-  const navigate = useNavigate();
 
   return (
     <header className="sticky top-0 flex h-14 items-center gap-4 border-b bg-background px-4 sm:px-6">

@@ -1,5 +1,5 @@
 import KanbanTodoList from "../components/kanban/KanbanTodoList";
-import { CheckCircle2, CheckSquare, Clock, Tag } from "lucide-react";
+import {  CheckSquare } from "lucide-react";
 
 export function TasksPage() {
   return (

@@ -1,5 +1,5 @@
 import { NavLink, useLocation } from "react-router-dom"
-import {ListTodo, LogOut} from "lucide-react"
+import {ListTodo} from "lucide-react"
 
 import {
   Sidebar,
@@ -10,17 +10,15 @@ import {
   SidebarGroupLabel,
   SidebarHeader,
   SidebarMenu,
-  SidebarMenuBadge,
+
   SidebarMenuButton,
   SidebarMenuItem,
   SidebarRail,
   SidebarSeparator,
 } from "@/components/ui/sidebar"
-import { ThemeToggle } from "@/components/theme-toggle"
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import { useUserStore } from "@/stores/user-store"
 
-// Menu items
+
+
 const mainNavItems = [
 
   {
@@ -35,7 +33,7 @@ const mainNavItems = [
 
 
 export function AppSidebar() {
-  const { user } = useUserStore()
+
   const location = useLocation()
 
   return (

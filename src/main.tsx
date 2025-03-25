@@ -5,7 +5,7 @@ import App from "./App";
 import "./index.css";
 import { SidebarProvider } from "./components/ui/sidebar";
 import { store, persistor } from "./store/store";
-import { ApiProvider } from "@reduxjs/toolkit/query/react";
+
 import { Provider } from "react-redux";
 import { PersistGate } from "redux-persist/integration/react";
 

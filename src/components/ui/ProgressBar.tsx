@@ -6,7 +6,7 @@ interface ProgressBarProps {
   height?: number; // Optional prop
 }
 
-const ProgressBar: React.FC<ProgressBarProps> = ({ progress, bgColor, height }) => {
+const ProgressBar: React.FC<ProgressBarProps> = ({ progress, bgColor }) => {
   return (
     <div className="relative w-full sm:w-full">
       <div className={`overflow-hidden h-2 text-xs flex rounded bg-gray-200`}>

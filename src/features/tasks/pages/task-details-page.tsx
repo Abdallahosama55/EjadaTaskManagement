@@ -6,7 +6,7 @@ import { SidebarTrigger } from "@/components/ui/sidebar"
 import { Separator } from "@/components/ui/separator"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
-import { ArrowBigLeft, ArrowLeft, Calendar, Clock, Edit, Tag, Trash2 } from "lucide-react"
+import { ArrowBigLeft, Calendar, Clock, Tag, Trash2 } from "lucide-react"
 import { formatDistanceToNow, format } from "date-fns"
 
 export function TaskDetailsPage() {
