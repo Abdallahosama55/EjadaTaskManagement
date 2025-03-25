@@ -87,5 +87,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Developed with ❤️ by **Ejada Team**
+Developed with ❤️ by **Abdallah Osama**
 
