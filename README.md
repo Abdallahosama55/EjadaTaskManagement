@@ -26,6 +26,7 @@ Ejada Task Management System is a simple and efficient task management applicati
 
 - ✅ Add and delete tasks
 - ✅ Add items to the bottom of the To-Do list
+- - ✅ Drag and Drop
 - ✅ Dark and light theme support
 - ✅ Integrated with backend services
 
